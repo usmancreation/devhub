@@ -36,4 +36,4 @@ script.js
 README.md
 GOOGLE_CLOUD_PLAN.md
 assets/
-screenshots/
+
